@@ -31,6 +31,10 @@ This repository contains multiple technical demonstration videos covering fuzz t
 - **中文**：Jenkins 定时任务：根据配置调用不同模糊测试引擎测试指定靶场，自动记录测试结果。  
 - **English**: Jenkins scheduled jobs that run configured fuzzing engines against targets and automatically log test results.
 
+### 🚀 07-feishu-card-interactive.mp4
+- **中文**：飞书卡片交互实例：演示如何通过自动化工作流触发动态飞书卡片，实现任务审批、状态实时更新与用户交互。  
+- **English**: Feishu card interaction demo: Shows how to trigger dynamic Feishu cards through automated workflows for task approval, real-time status updates, and user interaction.
+
 ---
 
 ## 🛠 技术栈 / Technology Stack
