@@ -35,6 +35,11 @@ This repository contains multiple technical demonstration videos covering fuzz t
 - **中文**：飞书卡片交互实例：演示如何通过自动化工作流触发动态飞书卡片，实现任务审批、状态实时更新与用户交互。  
 - **English**: Feishu card interaction demo: Shows how to trigger dynamic Feishu cards through automated workflows for task approval, real-time status updates, and user interaction.
 
+### 🐚 08-shell-scripting.mp4  
+- **中文**：使用 Shell 脚本实现模糊测试，每分钟记录一次测试数据，包括：总执行次数、总 Crash 数、去重后的 Crash 数、覆盖率数据等。   
+- **English**: Fuzz testing implemented with Shell scripting, logging test data every minute including: total executions, total crashes, deduplicated crashes, coverage metrics, etc.
+
+
 ---
 
 ## 🛠 技术栈 / Technology Stack
